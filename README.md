@@ -1,1 +1,3 @@
-# rpc-optimize
+```bash
+cargo watch -x run
+```
